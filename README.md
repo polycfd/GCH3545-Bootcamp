@@ -23,7 +23,9 @@ L'objectif est de vous permettre de démarrer le cours avec un environnement fon
 
 # Organisation et utilisation du dépôt
 
-Ce bootcamp se compose de six parties qui vous initient aux principaux logiciels et concepts de programmation dont vous aurez besoin pour la modélisation numérique. La septième partie est facultative, mais utile.
+Ce bootcamp se compose de six parties sous forme de notebooks Python interactifs (`.ipynb`) qui vous présentent les principaux logiciels et concepts de programmation dont vous aurez besoin pour la modélisation numérique. Le bootcamp comprend également un guide d'installation de Python, si celui-ci n'est pas encore installé sur votre ordinateur, ainsi qu'une brève introduction à Git, un système de gestion de versions. 
+
+Vous pouvez consulter toutes ces ressources directement ici. Toutefois, pour utiliser les exemples de code contenus dans les notebooks, vous devrez les exécuter sur votre ordinateur ou via un autre outil dans votre navigateur, comme expliqué ci-dessous.
 
 ## Contenu du dépôt
 
