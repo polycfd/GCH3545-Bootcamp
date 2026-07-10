@@ -2,7 +2,7 @@
 
 **Auteurs :** Bruno Blais & Fabian Denner (Polytechnique Montréal)
 
-Bienvenue au bootcamp Python de **GCH3545 – Modélisation numérique en ingénierie**.
+Bienvenue au bootcamp de **GCH3545 – Modélisation numérique en ingénierie**.
 
 Ce bootcamp a été conçu pour vous préparer aux travaux dirigés et au projet du cours. Il constitue un rappel des bases de Python scientifique, introduit quelques bonnes pratiques de programmation et présente les outils qui seront utilisés tout au long du trimestre. Ce dépôt contient l'ensemble du matériel du bootcamp.
 
