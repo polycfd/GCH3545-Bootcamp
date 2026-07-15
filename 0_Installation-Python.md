@@ -210,7 +210,9 @@ Pour l’exécuter :
 1. Cliquez n’importe où dans le fichier.
 2. Cliquez sur le bouton ▶︎ situé dans le coin supérieur droit de VS Code.
 
-![Lancez bonjour.py](figures/bonjour.png)
+<p align="left">
+  <img src="figures/bonjour.png" alt="Lancez bonjour.py" width="700">
+</p>
 
 Une fenêtre de terminal devrait alors s’ouvrir automatiquement dans la partie inférieure de VS Code. Vous devriez voir apparaître :
 

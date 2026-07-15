@@ -278,7 +278,10 @@ VS Code permet d'effectuer la majorité des opérations courantes sans avoir à 
 
 ### Voir les fichiers modifiés
 
-*(Insérer ici une capture d'écran de l'onglet Source Control.)*
+<p align="left">
+  <img src="figures/git-source-control.png" alt="Git Source Control" width="300">
+</p>
+
 
 L'onglet **Source Control** affiche les fichiers modifiés depuis le dernier commit.
 
@@ -290,19 +293,25 @@ Il permet de répondre rapidement à des questions telles que :
 
 ### Créer un commit
 
-*(Insérer ici une capture d'écran du champ de message de commit.)*
+<p align="left">
+  <img src="figures/git-message.png" alt="Git message" width="300">
+</p>
 
 Après avoir ajouté vos modifications, saisissez un message de commit descriptif puis cliquez sur **Commit**.
 
 ### Synchroniser avec GitHub
 
-*(Insérer ici une capture d'écran du bouton Synchronize Changes ou Push/Pull.)*
+<p align="left">
+  <img src="figures/git-sync.png" alt="Git sync" width="300">
+</p>
 
 VS Code permet d'envoyer et de récupérer des modifications directement depuis son interface.
 
 ### Changer de branche
 
-*(Insérer ici une capture d'écran du sélecteur de branche.)*
+<p align="left">
+  <img src="figures/git-change-branche.png" alt="Git branche" width="400">
+</p>
 
 Le sélecteur de branche permet de basculer rapidement entre différentes versions du projet.
 
