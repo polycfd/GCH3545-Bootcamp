@@ -31,7 +31,7 @@ Vous pouvez consulter toutes ces ressources directement ici. Toutefois, pour uti
 
 | Fichier | Description |
 |---|---|
-| `images/` | Dossier contenant les images et les captures d'écran que vous voyez dans le bootcamp |
+| `figures/` | Dossier contenant les images et les captures d'écran que vous voyez dans le bootcamp |
 | `.gitignore` | Liste des fichiers que Git ne doit pas enregistrer |
 | `0_Installation-Python.md` | Guide d'installation de l'environnement Python (au besoin) |
 | `1_Introduction.ipynb` | Introduction au bootcamp et prise en main de l'environnement |
@@ -276,7 +276,6 @@ Vous êtes libre de :
 - de redistribuer toute version modifiée sous la même licence.
 
 Pour plus d'informations :
-
 https://creativecommons.org/licenses/by-sa/4.0/deed.fr
 
 # Besoin d'aide ?
