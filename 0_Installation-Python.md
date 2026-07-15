@@ -138,7 +138,7 @@ Lancez VS Code.
 
 Si une fenêtre s'ouvre correctement, l'installation est terminée.
 
-*(Insérer ici une capture d'écran de VS Code.)*
+![VS Code](figures/vscode.png)
 
 ---
 
@@ -154,7 +154,7 @@ Dans VS Code :
 2. Recherchez **Python**.
 3. Installez l'extension publiée par **Microsoft**.
 
-*(Insérer ici une capture d'écran.)*
+![Extension Python](figures/extension-python.png)
 
 Cette extension permet à VS Code de comprendre le langage Python. Sans elle, VS Code serait simplement un éditeur de texte.
 
@@ -165,7 +165,7 @@ Toujours dans l'onglet Extensions :
 1. Recherchez **Jupyter**.
 2. Installez l'extension publiée par **Microsoft**.
 
-*(Insérer ici une capture d'écran.)*
+![Extension Jupyter](figures/extension-jupyter.png)
 
 Les activités du bootcamp sont fournies sous forme de notebooks Jupyter. Cette extension permet à VS Code d'ouvrir et d'exécuter ces notebooks.
 
@@ -210,7 +210,7 @@ Pour l’exécuter :
 1. Cliquez n’importe où dans le fichier.
 2. Cliquez sur le bouton ▶︎ situé dans le coin supérieur droit de VS Code.
 
-_(Insérer ici une capture d’écran du bouton Run Python File.)_
+![Lancez bonjour.py](figures/bonjour.png)
 
 Une fenêtre de terminal devrait alors s’ouvrir automatiquement dans la partie inférieure de VS Code. Vous devriez voir apparaître :
 
