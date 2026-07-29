@@ -173,13 +173,43 @@ Les activités du bootcamp sont fournies sous forme de notebooks Jupyter. Cette 
 
 # 4. Installer les bibliothèques nécessaires
 
-Python est volontairement minimal. Les fonctionnalités spécialisées sont généralement ajoutées sous forme de bibliothèques.
+Python est volontairement minimal. Les fonctionnalités spécialisées sont généralement ajoutées sous forme de **bibliothèques**, qui apportent des outils adaptés à des domaines particuliers, comme le calcul scientifique ou la visualisation de données.
 
-Ouvrez un terminal puis exécutez :
+Avant d'installer ces bibliothèques, nous vous recommandons de créer un **environnement virtuel**. Cette étape est facultative, mais elle constitue une bonne pratique.
+
+Un environnement virtuel est un dossier qui contient une installation Python propre à votre projet. Il permet d'éviter les conflits entre les bibliothèques utilisées par différents projets Python installés sur votre ordinateur.
+
+### Créer un environnement virtuel (recommandé)
+
+#### Sous macOS ou Linux
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+#### Sous Windows
+
+```cmd
+python -m venv .venv
+.venv\Scripts\activate
+```
+
+Une fois l'environnement activé, son nom (généralement `.venv`) apparaît au début de la ligne de commande du terminal. Cela indique que toutes les bibliothèques installées seront associées à ce projet plutôt qu'à l'installation globale de Python.
+
+### Installer les bibliothèques du bootcamp
+
+Exécutez ensuite la commande suivante :
 
 ```bash
 pip install numpy matplotlib pytest
 ```
+
+Cette commande installe les trois bibliothèques qui seront utilisées pendant le bootcamp :
+
+- **NumPy** : calcul numérique ;
+- **Matplotlib** : production de graphiques scientifiques ;
+- **pytest** : vérification automatique du fonctionnement d'un programme.
 
 L'installation peut prendre quelques minutes.
 
