@@ -90,8 +90,6 @@ Cette option est pratique si vous souhaitez :
 
 Les notebooks sont affichés dans le navigateur, mais ils ne sont pas exécutables directement dans l'interface standard de GitHub.
 
-*(Insérer ici une capture d'écran.)*
-
 ---
 
 ### Option 2 — Télécharger un fichier individuel
@@ -101,8 +99,6 @@ Si vous souhaitez travailler localement sur un seul notebook ou guide, vous pouv
 1. Ouvrez le fichier dans GitHub.
 2. Cliquez sur le bouton **Download**.
 3. Enregistrez le fichier sur votre ordinateur.
-
-*(Insérer ici une capture d'écran du bouton Download.)*
 
 Un notebook téléchargé peut ensuite être ouvert et exécuté dans VS Code, à condition d'avoir suivi le guide d'installation.
 
@@ -117,8 +113,6 @@ Si vous souhaitez réaliser l'ensemble du bootcamp sur votre ordinateur, il est 
 3. Enregistrez l'archive sur votre ordinateur.
 4. Décompressez le fichier ZIP dans le dossier de votre choix.
 5. Ouvrez le dossier décompressé dans VS Code.
-
-*(Insérer ici une capture d'écran du bouton Code et de l'option Download ZIP.)*
 
 Cette approche est recommandée pour la majorité des étudiants. Elle permet de conserver tous les fichiers du bootcamp dans un même dossier et de travailler localement dans VS Code.
 
@@ -211,7 +205,6 @@ Vous pouvez lire directement les fichiers sur GitHub.
 ### Si vous ne pouvez pas installer Python immédiatement
 
 Vous pouvez utiliser [Binder](https://mybinder.org) pour exécuter les notebooks dans votre navigateur.
-
 
 # Comment travailler dans les notebooks ?
 
